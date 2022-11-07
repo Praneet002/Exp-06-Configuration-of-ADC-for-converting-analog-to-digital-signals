@@ -230,7 +230,7 @@ SL NO	% OF POT VALUE	ADC VALUE
  
 Figure -09 graph between % of pot(1Kohm) values and ADC 
 
-Output screen shots :
+### Output screen shots :
 
 ![output](1.png)
 
@@ -240,7 +240,7 @@ Output screen shots :
 
 ![output](4.png)
 
-Result :
+### Result :
 Configuring an ADC and the input values are displayed on LCD screen 
 
 
